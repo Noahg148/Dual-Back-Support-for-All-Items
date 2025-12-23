@@ -5,6 +5,7 @@
 	"description": "Adds dual back support to all large items.",
 	"authors": ["Noahg148"],
 	"frameworkVersion": "2.0.0",
+	"updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/DualBackSupport-updater.json",
 	"contentFolders": [
         "katanas"
     ],
@@ -91,4 +92,5 @@
 			]
 		}
 	]
+
 }
