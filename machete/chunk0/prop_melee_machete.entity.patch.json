@@ -31,7 +31,7 @@
                         },
                         "m_rSpatial": {
                             "type": "SEntityTemplateReference",
-                            "value": "feed2ca60ba334c4"
+                            "value": "20fd9391fcb91b18"
                         },
                         "m_eMirrorOperation1": {
                             "type": "EMirrorTransformOperation",
