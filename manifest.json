@@ -1,5 +1,5 @@
 {
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"id": "Noahg148.DualBackSupport",
 	"name": "Dual Back Support for All Items",
 	"description": "Adds dual back support to all large items.",
@@ -94,3 +94,4 @@
 	]
 
 }
+
