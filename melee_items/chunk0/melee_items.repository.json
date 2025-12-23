@@ -1,180 +1,121 @@
 {
-    "12200bd8-9605-4111-8b26-4e73cb07d816": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "5b28437f-e440-40e0-ba77-426c1ee9fe0c": {
-    "DualBackSupport": true
-    },
-    "fba6e133-78d1-4af1-8450-1ff30466c553": {
-    "DualBackSupport": true
-    },
-    "94f52181-b9ec-4363-baef-d53b4e424b74": {
-    "DualBackSupport": true
-    },
-    "d938aa5c-72cf-4907-8bf5-522a67a11ae5": {
-    "DualBackSupport": true
-    },
     "0705964d-dab5-45b6-96ae-30cd4c2f0dec": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "09cd0b7c-4e79-481b-8cfc-f535f2d6745d": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "1066917f-2e04-4c54-b8cb-55cb1dcc2f26": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "d806777d-2715-48a4-bd1d-fa1d716af316": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "1973ae7e-538c-4a43-98af-208b9893d246": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "df6bf6bf-67ff-4325-8dc9-5eae6fe77fec": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "17615866-32e7-4e1e-951d-7ef2ada796e9": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "1e2bc40b-505a-4cc6-a09c-94470470985b": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "248cbd89-9923-452a-8cda-a5f76d8930dc": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "2add9602-cda7-43fd-9758-6269c8fbb233": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "369c68f7-cbef-4e45-83c7-8acd0dc2d237": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "3a8207bb-84f5-438f-8f30-5c83aef2af80": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "3e3819ca-4d19-4e0a-a238-4bd16c730e61": {
-    "DualBackSupport": true
-    },
-    "54f800df-0c14-4a6f-873f-16497b4edf00": {
-    "DualBackSupport": true
-    },
-    "58dceb1c-d7db-41dc-9750-55e3ab87fdf0": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "5db9cefd-391e-4c35-a4c4-bb672ac9b996": {
-    "DualBackSupport": true
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "74b04d1f-8ac9-46a0-9a6c-8579cf03276f": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "81654161-7711-4985-8056-8651a381d3ca": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "8d937ed4-dc85-476b-8048-e96a8900e7bf": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "8e445d94-9294-4087-af0d-178ef1f8c8f7": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "9074303b-a253-4c6a-b1b0-43412622b521": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "94c2b206-d011-4358-a6b3-c8a6042ab2c2": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "987d9c9f-203d-44d9-bbf8-bf703f349565": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "a1495dbf-4ceb-4109-85bd-0fa43bd654c8": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "a8bc4325-718e-45ba-b0e4-000729c70ce4": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "b153112f-9cd1-4a49-a9c6-ba1a34f443ab": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "b4d4ed1a-0687-48a9-a731-0e3b99494eb6": {
-    "DualBackSupport": true
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "b549ea89-e9cc-44f4-87ae-7145a7060028": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "c21f558b-2935-41e5-88ff-642eb1761ccc": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "c7296c5f-6c0e-4d52-98cd-e70a0d329e73": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "cb34f363-3534-46ff-b036-d49f1329f300": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "cbc38627-a3c4-4116-8731-ace217a831e7": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "d1f29c76-5751-4e06-b534-e6eb7522b128": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "d2a7fa04-2cac-45d8-b696-47c566bb95ff": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "d73251b4-4860-4b5b-8376-7c9cf2a054a2": {
-    "DualBackSupport": true
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "e98f44fd-7f36-46a8-ae3c-bf080e8454d3": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "4eede7ee-582b-49a4-b438-2418d82671d9": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "8f0931b1-3c3a-40e8-941b-70e85c04e580": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "bb507816-3007-4ac0-ab37-714472ddb7fc": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "0576a20c-581b-4705-8b9d-464e077d117e": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     },
     "bce6ce09-6ead-4d72-8438-2c7780770e70": {
-    "DualBackSupport": true,
-    "HolsterAbility": "eHolsterTemporarilyOnly"
+        "DualBackSupport": true,
+        "HolsterAbility": "eHolsterTemporarilyOnly"
     }
-    
 }
+
 
  
