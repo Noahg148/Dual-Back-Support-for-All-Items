@@ -1,0 +1,111 @@
+{
+    "tempHash": "00A369B7B46C83EF",
+    "tbluHash": "008742EF69812B18",
+    "patch": [
+        {
+            "SubEntityOperation": [
+                "e44c36ec8e5c78b1",
+                {
+                    "AddProperty": [
+                        "m_PosBackAttach",
+                        {
+                            "type": "SEntityTemplateReference",
+                            "value": "feed2ca60ba334c4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SubEntityOperation": [
+                "e44c36ec8e5c78b1",
+                {
+                    "AddProperty": [
+                        "m_PosDualBackAttach",
+                        {
+                            "type": "SEntityTemplateReference",
+                            "value": "feed9989e4e0cd80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feed2ca60ba334c4",
+                {
+                    "parent": "2ea5b2a69ca17f48",
+                    "name": "Back Attacher",
+                    "factory": "[modules:/zspatialentity.class].pc_entitytype",
+                    "blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 261.069941658211,
+                                    "y": 202.2195933197764682,
+                                    "z": -180.0
+                                },
+                                "position": {
+                                    "x": 0.0,
+                                    "y": -0.022861000150442123,
+                                    "z": -0.13495400547981262
+                                }
+                            }
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "846a8180a92b86e1"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feed9989e4e0cd80",
+                {
+                    "parent": "2ea5b2a69ca17f48",
+                    "name": "Dual Back Attacher",
+                    "factory": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "846a8180a92b86e1"
+                        },
+                        "m_rSpatial": {
+                            "type": "SEntityTemplateReference",
+                            "value": "feed2ca60ba334c4"
+                        },
+                        "m_eMirrorOperation1": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_RotationNegate"
+                        },
+                        "m_eMirrorOperation2": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_TranslationNegate"
+                        },
+                        "m_mOffset": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 11.25,
+                                    "y": 169.03040668022353,
+                                    "z": 45.0
+                                },
+                                "position": {
+                                    "x": 0.0,
+                                    "y": 0.03500000037252903,
+                                    "z": -0.25656250454019756
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

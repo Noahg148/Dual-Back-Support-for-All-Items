@@ -1,0 +1,87 @@
+{
+    "tempHash": "003C8C4F2C69F303",
+    "tbluHash": "0023465D3E176A66",
+    "patch": [
+        {
+			"SubEntityOperation": [
+				"e54aacb641a35ba6",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": 159.999941658211,
+								"y": -0.2804066802235318,
+								"z": -90.0
+							},
+							"position": {
+								"x": 0.0,
+								"y": -0.0125,
+								"z": -0.13495400547981262
+							}
+						}
+					}
+				}
+			]
+		},
+        {
+			"SubEntityOperation": [
+				"69c089fbd87b2252",
+				{
+					"AddProperty": [
+						"m_PosDualBackAttach",
+						{
+							"type": "SEntityTemplateReference",
+							"value": "feed9989e4e0cd80"
+						}
+					]
+				}
+			]
+		},
+        {
+            "AddEntity": [
+                "feed9989e4e0cd80",
+                {
+                    "parent": "c804def8491c5778",
+                    "name": "Dual Back Attacher",
+                    "factory": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "a72285b070b04c6d"
+                        },
+                        "m_rSpatial": {
+                            "type": "SEntityTemplateReference",
+                            "value": "e54aacb641a35ba6"
+                        },
+                        "m_eMirrorOperation1": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_RotationNegate"
+                        },
+                        "m_eMirrorOperation2": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_TranslationNegate"
+                        },
+                        "m_mOffset": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": -0.0,
+                                    "y": -43.569941658211,
+                                    "z": 180.0
+                                },
+                                "position": {
+                                    "x": -0.1,
+                                    "y": -0.02,
+                                    "z": -0.035
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

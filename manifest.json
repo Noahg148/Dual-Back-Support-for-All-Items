@@ -1,0 +1,94 @@
+{
+	"version": "3.0.0",
+	"id": "Noahg148.DualBackSupport",
+	"name": "Dual Back Support for All Items",
+	"description": "Adds dual back support to all large items.",
+	"authors": ["Noahg148"],
+	"frameworkVersion": "2.0.0",
+	"contentFolders": [
+        "katanas"
+    ],
+    "options": [
+		{
+			"name": "Large Firearms" ,
+            "tooltip": "Dual back support for large firearms.",
+			"type": "checkbox",
+            "enabledByDefault": true,
+			"contentFolders": [
+				"firearms"
+			]
+		},
+		{
+			"name": "Large Melee Items" ,
+            "tooltip": "Dual back support for large, non-lethal melee items.",
+			"type": "checkbox",
+            "enabledByDefault": true,
+			"contentFolders": [
+				"melee_items"
+			]
+		},
+		{
+			"name": "Large Melee Weapons" ,
+            "tooltip": "Dual back support for large, lethal melee weapons.",
+			"type": "checkbox",
+            "enabledByDefault": true,
+			"contentFolders": [
+				"melee_weapons"
+			]
+		},
+		{
+			"name": "Mace" ,
+            "tooltip": "Dual back support for the mace. This option is incompatible with the Project Mrtnifiquation - Armory Module mod.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"mace"
+			]
+		},
+		{
+			"name": "Machete" ,
+            "tooltip": "Dual back support for the regular machete. This option is incompatible with the Project Mrtnifiquation - Armory Module mod.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"machete"
+			]
+		},
+		{
+			"name": "Fire Extinguisher" ,
+            "tooltip": "Dual back support for the fire extinguisher.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"fire_extinguisher"
+			]
+		},
+		{
+			"name": "Propane Flask" ,
+            "tooltip": "Dual back support for the propane flask.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"propane_flask"
+			]
+		},
+		{
+			"name": "Car Battery" ,
+            "tooltip": "Dual back support for the car battery.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"car_battery"
+			]
+		},
+		{
+			"name": "Canisters" ,
+            "tooltip": "Dual back support for the water canister and oil canister.",
+			"type": "checkbox",
+            "enabledByDefault": false,
+			"contentFolders": [
+				"canisters"
+			]
+		}
+	]
+}
