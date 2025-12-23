@@ -1,0 +1,25 @@
+{
+	"tempHash": "00452D77C32B3861",
+	"tbluHash": "00705B8FC96F4F5C",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"197f2bfe0e1f93a5",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mOffset",
+						"value": {
+							"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+							"position": {
+								"x": -0.1,
+								"y": 0.02500000037252903,
+								"z": 0.0
+							}
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

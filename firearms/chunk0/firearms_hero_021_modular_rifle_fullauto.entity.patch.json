@@ -1,0 +1,61 @@
+{
+    "tempHash": "0046A0E916742B45",
+    "tbluHash": "00A89A2369E406BD",
+    "patch": [
+        {
+			"SubEntityOperation": [
+				"335bb224cd62af3b",
+				{
+					"AddProperty": [
+						"m_PosDualBackAttach",
+						{
+							"type": "SEntityTemplateReference",
+							"value": "feed9989e4e0cd80"
+						}
+					]
+				}
+			]
+		},
+        {
+            "AddEntity": [
+                "feed9989e4e0cd80",
+                {
+                    "parent": "4b2887fffe624496",
+                    "name": "Dual Back Attacher",
+                    "factory": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_rSpatial": {
+                            "type": "SEntityTemplateReference",
+                            "value": "6d7f19b8721dbcd6"
+                        },
+                        "m_eMirrorOperation1": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_RotationNegate"
+                        },
+                        "m_eMirrorOperation2": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_TranslationNegate"
+                        },
+                        "m_mOffset": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": -0.0,
+                                    "y": 180.0,
+                                    "z": -0.0
+                                },
+                                "position": {
+                                    "x": 0.0,
+                                    "y": 0.02500000037252903,
+                                    "z": -0.225
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

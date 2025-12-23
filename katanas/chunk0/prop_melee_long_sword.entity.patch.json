@@ -1,0 +1,65 @@
+{
+    "tempHash": "00AB23AC6F48B149",
+    "tbluHash": "0070EE9F1D3A7C7F",
+    "patch": [
+        {
+			"SubEntityOperation": [
+				"940bb914b60d3a9d",
+				{
+					"AddProperty": [
+						"m_PosDualBackAttach",
+						{
+							"type": "SEntityTemplateReference",
+							"value": "feed9989e4e0cd80"
+						}
+					]
+				}
+			]
+		},
+        {
+            "AddEntity": [
+                "feed9989e4e0cd80",
+                {
+                    "parent": "d463dcdb1cbec8a6",
+                    "name": "Dual Back Attacher",
+                    "factory": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "9396f74ec00348ae"
+                        },
+                        "m_rSpatial": {
+                            "type": "SEntityTemplateReference",
+                            "value": "d5566a599b1283e3"
+                        },
+                        "m_eMirrorOperation1": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_RotationNegate"
+                        },
+                        "m_eMirrorOperation2": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_TranslationNegate"
+                        },
+                        "m_mOffset": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 10.89248541455275,
+                                    "y": -21.7849708291055,
+                                    "z": 180.0
+                                },
+                                "position": {
+                                    "x": -0.075,
+                                    "y": -0.05,
+                                    "z": 0.0
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

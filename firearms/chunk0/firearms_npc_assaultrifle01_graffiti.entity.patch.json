@@ -1,0 +1,61 @@
+{
+    "tempHash": "006165D52DC45D6A",
+    "tbluHash": "0012DC5DBF374D4F",
+    "patch": [
+        {
+			"SubEntityOperation": [
+				"97beab08d2a71ef1",
+				{
+					"AddProperty": [
+						"m_PosDualBackAttach",
+						{
+							"type": "SEntityTemplateReference",
+							"value": "feed9989e4e0cd80"
+						}
+					]
+				}
+			]
+		},
+        {
+            "AddEntity": [
+                "feed9989e4e0cd80",
+                {
+                    "parent": "1d447ccb6501d199",
+                    "name": "Dual Back Attacher",
+                    "factory": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_mirroredspatial.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_rSpatial": {
+                            "type": "SEntityTemplateReference",
+                            "value": "568abd489fa704f4"
+                        },
+                        "m_eMirrorOperation1": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_RotationNegate"
+                        },
+                        "m_eMirrorOperation2": {
+                            "type": "EMirrorTransformOperation",
+                            "value": "MTO_X_TranslationNegate"
+                        },
+                        "m_mOffset": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": -0.0,
+                                    "y": 180.0,
+                                    "z": -0.0
+                                },
+                                "position": {
+                                    "x": 0.0,
+                                    "y": 0.02500000037252903,
+                                    "z": -0.1150000037252903
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}
