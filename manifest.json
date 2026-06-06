@@ -1,8 +1,8 @@
 {
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"id": "Noahg148.DualBackSupport",
-	"name": "Dual Back Support for All Items",
-	"description": "Adds dual back support to all large items.",
+	"name": "Dual Back Support for All Items (Dual Wielding)",
+	"description": "Adds dual back support to large items.",
 	"authors": ["Noahg148"],
 	"frameworkVersion": "2.0.0",
 	"updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/DualBackSupport-updater.json",
