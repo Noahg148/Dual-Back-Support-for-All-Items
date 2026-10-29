@@ -9,7 +9,11 @@
 					"SetPropertyValue": {
 						"property_name": "m_mOffset",
 						"value": {
-							"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -0.0
+							},
 							"position": {
 								"x": -0.1,
 								"y": 0.02500000037252903,
