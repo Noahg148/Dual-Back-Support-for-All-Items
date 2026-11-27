@@ -50,7 +50,7 @@
 			"name": "Mace" ,
             "tooltip": "Dual back support for the mace. This option is incompatible with the Project Mrtnifiquation - Armory Module mod.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"mace"
 			]
@@ -59,7 +59,7 @@
 			"name": "Machete" ,
             "tooltip": "Dual back support for the regular machete. This option is incompatible with the Project Mrtnifiquation - Armory Module mod.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"machete"
 			]
@@ -68,7 +68,7 @@
 			"name": "Fire Extinguisher" ,
             "tooltip": "Dual back support for the fire extinguisher.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"fire_extinguisher"
 			]
@@ -77,7 +77,7 @@
 			"name": "Propane Flask" ,
             "tooltip": "Dual back support for the propane flask.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"propane_flask"
 			]
@@ -86,7 +86,7 @@
 			"name": "Car Battery" ,
             "tooltip": "Dual back support for the car battery.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"car_battery"
 			]
@@ -95,7 +95,7 @@
 			"name": "Canisters" ,
             "tooltip": "Dual back support for the water canister and oil canister.",
 			"type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
 			"contentFolders": [
 				"canisters"
 			]
