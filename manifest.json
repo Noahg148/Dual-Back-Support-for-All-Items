@@ -29,6 +29,15 @@
 			]
 		},
 		{
+			"name": "Powerchord-A Guitar" ,
+            "tooltip": "The Powerchord-A Guitar is the only melee item with back support by default, this option adds dual back support.",
+			"type": "checkbox",
+            "enabledByDefault": true,
+			"contentFolders": [
+				"rockstar_guitar"
+			]
+		},
+		{
 			"name": "Large Melee Weapons" ,
             "tooltip": "Dual back support for large, lethal melee weapons.",
 			"type": "checkbox",

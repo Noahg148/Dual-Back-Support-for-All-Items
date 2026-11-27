@@ -126,9 +126,5 @@
     "e0aac2f2-b6b2-4ffa-b056-cb6e5385e6a3": {
         "DualBackSupport": true,
         "HolsterAbility": "eHolsterTemporarilyOnly"
-    },
-    "ffcb781c-42a1-4d6d-9e1f-30603b7b3e5f": {
-        "DualBackSupport": true,
-        "HolsterAbility": "eHolsterTemporarilyOnly"
     }
 }
