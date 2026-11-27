@@ -3,65 +3,19 @@
     "tbluHash": "0031E80A64E6B4B1",
     "patch": [
         {
-            "SubEntityOperation": [
-                "ced7f5cab34b351f",
-                {
-                    "AddProperty": [
-                        "m_PosBackAttach",
-                        {
-                            "type": "SEntityTemplateReference",
-                            "value": "feed2ca60ba334c4"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SubEntityOperation": [
-                "ced7f5cab34b351f",
-                {
-                    "AddProperty": [
-                        "m_PosDualBackAttach",
-                        {
-                            "type": "SEntityTemplateReference",
-                            "value": "feed9989e4e0cd80"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "AddEntity": [
-                "feed2ca60ba334c4",
-                {
-                    "parent": "5dd07d41db9cd16a",
-                    "name": "Back Attacher",
-                    "factory": "[modules:/zspatialentity.class].pc_entitytype",
-                    "blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
-                    "properties": {
-                        "m_mTransform": {
-                            "type": "SMatrix43",
-                            "value": {
-                                "rotation": {
-                                    "x": 159.999941658211,
-                                    "y": -0.2804066802235318,
-                                    "z": -90.0
-                                },
-                                "position": {
-                                    "x": 0.0,
-                                    "y": -0.022861000150442123,
-                                    "z": -0.13495400547981262
-                                }
-                            }
-                        },
-                        "m_eidParent": {
-                            "type": "SEntityTemplateReference",
-                            "value": "51f66bf530179439"
-                        }
-                    }
-                }
-            ]
-        },
+			"SubEntityOperation": [
+				"ced7f5cab34b351f",
+				{
+					"AddProperty": [
+						"m_PosDualBackAttach",
+						{
+							"type": "SEntityTemplateReference",
+							"value": "feed9989e4e0cd80"
+						}
+					]
+				}
+			]
+		},
         {
             "AddEntity": [
                 "feed9989e4e0cd80",
@@ -77,7 +31,7 @@
                         },
                         "m_rSpatial": {
                             "type": "SEntityTemplateReference",
-                            "value": "feed2ca60ba334c4"
+                            "value": "d739bf443024db32"
                         },
                         "m_eMirrorOperation1": {
                             "type": "EMirrorTransformOperation",
@@ -98,7 +52,7 @@
                                 "position": {
                                     "x": 0.0,
                                     "y": 0.02500000037252903,
-                                    "z": 0.0
+                                    "z": 0.01504599452018738
                                 }
                             }
                         }
